@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&family=Yuji+Mai&display=swap');
+
+/*dat bien */
+:root {
+    --background-light:white;
+    --background-dark:black;
+    --color-light:gray;
+    --color-dark:black;
+}
+body {
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}

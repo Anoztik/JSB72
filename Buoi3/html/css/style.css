@@ -23,7 +23,6 @@ nav{
     top: 0;
     background: blueviolet;
     height: 75px;
-    width: 100%;
     overflow: hidden;
     z-index: 1000;
 }
